@@ -15,8 +15,7 @@
 
 感谢以下开源项目，本仓库在项目中参考了他们的思路：
 
-- [mathematics-notes](https://github.com/xiaoyuzh/mathematics-notes)
-- [linear-algebra](https://github.com/guipsamora/linear-algebra)
+
 
 ## 参考数目
 北大版高等数学教材
